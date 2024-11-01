@@ -1,0 +1,4 @@
+fastapi==0.115.4
+opencv_python==4.10.0.84
+python-dotenv==1.0.1
+Requests==2.32.3
